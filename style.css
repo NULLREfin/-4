@@ -1,0 +1,39 @@
+.content-box {
+  background-color: aliceblue;
+  border: 2px solid #000000;
+  padding: 10px;
+  border-radius: 5px;
+}
+.content-box {
+  border-width: 5px;
+}
+.content-box {
+  padding: 20px;
+}
+.content-box {
+  border-radius: 10px;
+}
+h1 {
+  color: black;
+  font-size: 50px;
+  font-weight: bold;
+}
+li {
+  color: black;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+.btn {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 10%;
+  under: 0px
+}
+.fo{
+  font-size 30;
+}
+a{
+  color: black;
+}
